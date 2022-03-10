@@ -1,6 +1,6 @@
-ASP.NET Core Web App project
+## **ASP.NET Core Web App project**
 
-Building and publishing the web application
+#### Building and publishing the web application
 
 
 In this project i built a web application app using Visual studio and microsoft IIS.
@@ -23,7 +23,7 @@ At this point i published my web application to a folder.
 
 
 
-Making the application accesible
+#### Making the application accesible
 
 
 To make my web app accesible, i did the following steps:
@@ -34,7 +34,10 @@ In IIS i created a new application pool, selected "No managed code" in the .NET 
 
 In the sites folder i added a new site, assigned it to the previously created application pool and gave it port 5100.
 
-Copied the "publish folder 
+Copied the "publish" folder we created from the build to the folder of the IIS site we created earlier.
+
+And fianlly restarted the site, at this point i was able to reach my web application by going to: “http://localhost:5100/”.
+
 
 
 
