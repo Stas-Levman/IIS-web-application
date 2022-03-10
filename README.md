@@ -21,7 +21,7 @@ and if i rebuild the project new files in the /bin/debug/net6.0 path can be foun
 At this point i published my web application to a folder.
 
 \
-\
+
 
 ### Making the application accesible
 
