@@ -35,7 +35,7 @@ In the sites folder i added a new site, assigned it to the previously created ap
 
 Copied the "publish" folder we created from the build to the folder of the IIS site we created earlier.
 
-And fianlly restarted the site, at this point i was able to reach my web application by going to: http://localhost:5100/.
+And finally restarted the site, at this point i was able to reach my web application by going to: http://localhost:5100/.
 
 
 
