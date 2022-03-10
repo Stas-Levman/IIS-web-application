@@ -18,11 +18,10 @@ After the last step i found a new text in the .csproj including the Newtonsoft.J
 
 and if i rebuild the project new files in the /bin/debug/net6.0 path can be found, among them are the .dll files including the Newtonsoft.Json dll.
 
-At this point i published my web application to a folder.\
+At this point i published my web application to a folder.
 
-\
-
-
+<br>
+<br>
 
 ### Making the application accesible
 
